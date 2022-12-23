@@ -1,2 +1,2 @@
 # Dio
-Projeto de clonar a interface de login do Instagram
+Projeto para recriar a interface de login do Instagram
